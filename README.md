@@ -2,9 +2,9 @@
 
 I'm a Solidity developer and an aspiring smart contract security researcher.
 
-- 🏗️ Currently working with [txFusion](https://txfusion.io/), improving developer experience on [ZKsync](https://zksync.io/)
+- 🏗️ Currently working on [Aera Finance](https://www.aera.finance/), building secure treasury management vaults for large DeFi protocols
+- 🔙 Previously worked with [txFusion](https://txfusion.io/), improving developer experience on [ZKsync](https://zksync.io/)
 - 🕵🏻‍♂️ Learning about blockchain security and helping secure web3 protocols ➡️ [My Audits](https://github.com/igorroncevic/audits?tab=readme-ov-file#audit-portfolio--ironside)
-- 🏄🏻 Roaming through blockchains
 
 ### Socials
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-roncevic/)
