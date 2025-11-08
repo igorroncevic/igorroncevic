@@ -2,7 +2,7 @@
 
 I'm a security-oriented smart contract engineer.
 
-- 🏗️ Currently working on [Aera Finance](https://www.aera.finance/), building secure yield-farming vaults, which integrate many different DeFi protocols as yield sources. Check out our first Aera V3 vault - [Gauntlet USDC Alpha](https://app.gauntlet.xyz/vaults/gtusda), which holds $75M+ TVL.
+- 🏗️ Currently working on [Aera Finance](https://www.aera.finance/), building secure yield-farming vaults, which integrate many different DeFi protocols as yield sources. Check out our first Aera V3 vault - [Gauntlet USD Alpha](https://app.gauntlet.xyz/vaults/gtusda), which holds $75M+ TVL.
 - 🔙 Previously worked with [txFusion](https://txfusion.io/), improving developer experience on [ZKsync](https://zksync.io/) through [txSync](https://www.txsync.io/) dApp hub, and building L2 bridges from Mainnet to ZKsync for [Tether](https://github.com/txfusion/tether-l2) and [Lido](https://github.com/txfusion/lido-l2).
 - ✍🏻 Writing about smart contracts development and security, as well as blockchain in general, on my website [irondev.xyz](https://www.irondev.xyz).
 - 🕵🏻‍♂️ In my free time, learning about blockchain security and helping secure web3 protocols ➡️ [My Audits](https://github.com/igorroncevic/audits?tab=readme-ov-file#audit-portfolio--ironside).
