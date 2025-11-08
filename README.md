@@ -1,12 +1,14 @@
-### Hi there, I'm Igor👋
+## Hi there, I'm Igor 👋
 
-I'm a Solidity developer and an aspiring smart contract security researcher.
+I'm a security-oriented smart contract engineer.
 
-- 🏗️ Currently working on [Aera Finance](https://www.aera.finance/), building secure treasury management vaults for large DeFi protocols
-- 🔙 Previously worked with [txFusion](https://txfusion.io/), improving developer experience on [ZKsync](https://zksync.io/)
-- 🕵🏻‍♂️ Learning about blockchain security and helping secure web3 protocols ➡️ [My Audits](https://github.com/igorroncevic/audits?tab=readme-ov-file#audit-portfolio--ironside)
+- 🏗️ Currently working on [Aera Finance](https://www.aera.finance/), building secure yield-farming vaults, which integrate many different DeFi protocols as yield sources. Check out our first Aera V3 vault - [Gauntlet USDC Alpha](https://app.gauntlet.xyz/vaults/gtusda), which holds $75M+ TVL.
+- 🔙 Previously worked with [txFusion](https://txfusion.io/), improving developer experience on [ZKsync](https://zksync.io/) through [txSync](https://www.txsync.io/) dApp hub, and building L2 bridges from Mainnet to ZKsync for [Tether](https://github.com/txfusion/tether-l2) and [Lido](https://github.com/txfusion/lido-l2).
+- ✍🏻 Writing about smart contracts development and security, as well as blockchain in general, on my website [irondev.xyz](https://www.irondev.xyz).
+- 🕵🏻‍♂️ In my free time, learning about blockchain security and helping secure web3 protocols ➡️ [My Audits](https://github.com/igorroncevic/audits?tab=readme-ov-file#audit-portfolio--ironside).
 
-### Socials
+## Socials
+[![Website](https://img.shields.io/badge/Website-070707?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADjElEQVR4ASxSXWxTZRh+vq/rz7qe9py1FaLVbh2KLYmpcxkSRYKMBFc2aWqJm7JFxStNjIaE7dILr0icV1xoSAR3QXYj8W8aQmKCF26o6EhRHBu6Ddd1a3tO29PT8/cdvwFv8n6/z/O+z/t+H8UDI3x+JZ/3jI+N92ez2TO54WxhJHesNZIdbB0bfKkwlMmcyeVye/Mcs40F7o8UhC+4j0xMSsTV/ikB/cHt8Z2KiELq8aDbezAV9+Yyh1KPxXtOCQHx+4A/+Nmb+bc6QZx7VArHwWujo5JWs867pcg4gyNaloX07h70dj+CuBRGuq8fV/9YgMcfEEHpWJ2oF2LJWCccgKZSKc+tleUprVoekstlNFQNTa2FEHSUqyqUpgbWrIEAqNVq0HUdTb2V0TXjE2cX8dINbSOt1OsvtyolaNVNLohwMIWmylCUCtbW1mDKm0h1xfm5A9NicEBhMzIUbHWmKXW58l5BEitbZTR5ttJmCZVqGZdvLGGlqmB1s4KzM1+j0dQh11XYnFypVsEcSwSxj1PLZIN1RUZVN1BTG9D0FkzDRHxnFAvL/+B2sQhPdAdWeXBCKWzes+17ZjtgFstQy7B7GkoVptaAbZkQ/D5sbG1h8c4KBvf14bmnkqC89me7wkgmYgBjMDjO4aXYJhKUUEAKBhHy+hEV/GjVZRTXi7j04zwmzl3CRxevYPbqHC5f+QnX5n9GTHIjEXsIls1gmwy0U4gs+Vxe/Ld+F3O//IrfFgogPAt1tYG63DBME6VSGQDFn3/fwecXv0TA60NE6oTLRZepJIRnmQ20mnXYPKrFLN5lB8RhYFyjZehwt7mwf/8B7OpJwDAMXL9RwKHnD2LPE09/R1mbf0a3bZkQCkoJJxL+lJzMAxAKOFxNXVEwPX0e89fm+B5oajp2RCRFZtYMNWvF31VF+Soc7EA4JKDd40Eo4EPQ70FUFCAG2hHo8CLY7sHDYhAjL/biwzeGMbDvmW9IpXSd3izcNNrq7P13jr7w7eTxAZwY6MeB9O57/kHuME6/msHE6FFMcj/9+jAO9+1BJOCeTSZ731u8vahTEOBubbWyMxQaiwodX6QTcbk7IoHw/2BpKkIdXInQAZGr8FFHsQxnenmpeOLRZLLMqby1DrgRnJw6V6lq629bhB3pioof732y+6+6qpqrK/+asizfMi1zytSaR1R97eS7Zy+Ut2nb/j8AAAD//7P//aEAAAAGSURBVAMAj2mtArH5niQAAAAASUVORK5CYII=)](https://www.irondev.xyz?utm_source=github&utm_medium=profile)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-roncevic/)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/irondevx)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irondevx)
